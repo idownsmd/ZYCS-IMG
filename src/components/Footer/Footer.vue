@@ -21,17 +21,6 @@
           </a>
         </p>
       </section>
-      <section class="flex flex-col items-center gap-2">
-        <div class="flex gap-6">
-          <a title="Github" target="_blank" rel="nofollow" href="https://github.com/uxiaohan">
-            <img class="w-8" src="@/assets/images/footer/github.svg" />
-          </a>
-          <a title="极致博客" target="_blank" href="https://maxmin.cc/">
-            <img class="w-8" src="@/assets/images/footer/blog.svg" />
-          </a>
-        </div>
-        <span class="w-full font-bold text-lg text-center">江郎才尽图床</span>
-      </section>
     </main>
   </footer>
 </template>
